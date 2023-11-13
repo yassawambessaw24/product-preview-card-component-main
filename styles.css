@@ -147,3 +147,22 @@
     font-family: var(--ff-accent);
     color: var(--clr-neutral-400);
   }
+
+  .attribution {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 0.625rem
+  }
+
+  .attribution a {
+    text-decoration: none;
+    color: blue;
+  }
+
+  a:hover {
+    color: brown;
+  }
+
+  a:active {
+    color: gray;
+  }
